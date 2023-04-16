@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 :root{
-  --primary-color: #0DFF92;
+  --primary-color: #58e0ec;
   --dark-color:#222222;
   --light-color: #f0f0f0;
 }
@@ -21,7 +21,7 @@ body, html{
   margin: 40px auto;
   height: auto;
   width: 800px;
-  padding: 20px;
+  padding: 10px;
 }
 
 .container .title{
